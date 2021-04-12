@@ -4,4 +4,5 @@
 
 ## Project Description
 
-This dataset is for the purpose of learning "Data Science".
+The dataset titled "Google Job Skills" is for the purpose of learning "Data Science".
+
